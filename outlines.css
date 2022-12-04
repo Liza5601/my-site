@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Портфолио Елизаветы Измайловой</title>
+  </head>
+
+  <body>
+    <header class="page-header">
+      Тел.89619407926 E-mail elizaveta427926@gmail.com
+    </header>
+
+    <section class="hero-image">
+      <h1 class="heading">Елизавета Измайлова</h1>
+      <p>Здесь про любовь к своему делу</p>
+    </section>
+
+    <section class="intro">
+      <h2 class="subheading">Давайте познакомимся</h2>
+      <h3>Пара слов о себе</h3>
+      <p>Люблю готовить десерты и красиво украшать их.</p>
+      <h3>Чем могу быть полезен</h3>
+      <p>Изготавливаю на заказ торты с интересными начинками и минималистичным дизайном</p>
+    </section>
+
+    <section class="portfolio">
+      <h2 class="subheading">Мои работы</h2>
+
+      <h3>Магазин товаров для дома</h3>
+      <p>Мой первый сайт.</p>
+
+      <h3>Блог начинающего верстальщика</h3>
+      <p>Статический блог про обучение HTML и CSS.</p>
+    </section>
+
+    <footer class="page-footer">
+      Контакты в подвале
+    </footer>
+  </body>
+</html>
